@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StinkBomb.iml" filepath="$PROJECT_DIR$/StinkBomb.iml" />
+      <module fileurl="file://F:\Android\Projects\StinkBomb\StinkBomb.iml" filepath="F:\Android\Projects\StinkBomb\StinkBomb.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
